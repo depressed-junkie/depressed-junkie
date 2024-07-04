@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @depressed-junkie
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning Machine Learning(ML)
+- 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anshul.r.sharma02@gmail.com
 - 😄 Pronouns: ...
