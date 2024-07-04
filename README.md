@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @depressed-junkie
+- 👋 Hi, I’m @Anshul Sharma
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on ...
